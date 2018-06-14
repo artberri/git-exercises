@@ -1,6 +1,6 @@
 Curabitur elementum auctor arcu, nec ultricies nunc commodo iaculis.
 
-Aenean a felis eget neque tempus placerat non ac justo. Interdum et malesuada fames ac ante ipsum primis in faucibus.
+Aenean a felis eget neque tempus placerat non ac justo.
 
 Proin ac lorem consequat, tristique quam vel, viverra quam. Aenean tempor ullamcorper ex sed ullamcorper.
 
